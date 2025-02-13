@@ -1,8 +1,10 @@
 #ifndef SORT_H
 #define SORT_H
 
-/* T1 Data Structure */
 #include <stdlib.h>
+#include <stdio.h>
+
+/* T1 Data Structure */
 /**
  * struct listint_s - Doubly linked list node
  *
